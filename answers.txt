@@ -9,3 +9,12 @@ Additionally, Git enables people to collaborate on a project while working on th
 to a shared repository.
 
 For this class, it might be helpful for keeping backups, and for submitting our code files.
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer:
+
+Data science could be applied to the field of medicine. For example, hospitals must keep medical records and then
+analyze that data to determine how to better treat patients. They must also keep medical histories on patients,
+which can be analyzed by doctors in order to better treat the patients.
