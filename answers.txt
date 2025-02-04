@@ -18,3 +18,11 @@ Answer:
 Data science could be applied to the field of medicine. For example, hospitals must keep medical records and then
 analyze that data to determine how to better treat patients. They must also keep medical histories on patients,
 which can be analyzed by doctors in order to better treat the patients.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer:
+
+The difference between Merging and Rebasing is that merging combines the changes and history from one branch
+to another branch, while rebasing reapplies a commit on top of another base commit.
