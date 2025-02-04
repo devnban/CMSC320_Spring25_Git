@@ -4,8 +4,3 @@ Answer:
 
 We might consider using Git because it allows you to track your code's history and changes.
 This is also helpful because you can keep backups of your code and recover it if the local files are lost.
-
-Additionally, Git enables people to collaborate on a project while working on their own local copies, and then pushing it
-to a shared repository.
-
-For this class, it might be helpful for keeping backups, and for submitting our code files.
